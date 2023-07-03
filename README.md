@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://telegra.ph/file/171925d184de01b3055dc.jpg" alt="DQ-The-File-Donor Logo">
+  <img src="https://te.legra.ph/file/dc42f4131343f424268c5.jpg" alt="SRX NETWORK Logo">
 </p>
 <h1 align="center">
-  𝑫𝑸-𝑻𝒉𝒆-𝑭𝒊𝒍𝒆-𝑫𝒐𝒏𝒐𝒓 𝑩𝒐𝒕
+  𝐒𝐑𝐗 𝐍𝐄𝐓𝐖𝐎𝐑𝐊 𝐁𝐎𝐓
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝑊𝑒𝑙𝑐𝑜𝑚𝑒+𝑇𝑜+𝐷𝑄-𝑇ℎ𝑒-𝐹𝑖𝑙𝑒-𝐷𝑜𝑛𝑜𝑟!;𝐶𝑟𝑒𝑎𝑡𝑒𝑑+𝑏𝑦+Jᴏᴇʟ+ᠰ+TɢX!;𝐴+𝑠𝑖𝑚𝑝𝑙𝑒+𝑎𝑛𝑑+𝑝𝑜𝑤𝑒𝑟𝑓𝑢𝑙+𝐵𝑜𝑡!;𝐼𝑛𝑑𝑒𝑥𝑒𝑠+𝐹𝑖𝑙𝑒𝑠+𝑎𝑏𝑜𝑣𝑒+2𝐺𝐵;𝐴+𝐵𝑜𝑡+𝑤𝑖𝑡ℎ+𝑑𝑜𝑢𝑏𝑙𝑒+𝑏𝑢𝑡𝑡𝑜𝑛!;𝑆𝑡𝑎𝑟𝑡+𝑚𝑒𝑠𝑠𝑎𝑔𝑒+𝑤𝑖𝑡ℎ+𝑝𝑖𝑐!;𝐴𝑛𝑑+𝑚𝑜𝑟𝑒+𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝑊𝑒𝑙𝑐𝑜𝑚𝑒+𝑇𝑜+SRX-NETWORK!;𝐶𝑟𝑒𝑎𝑡𝑒𝑑+𝑏𝑦+SRX+ᠰNETWORK!;𝐴+𝑠𝑖𝑚𝑝𝑙𝑒+𝑎𝑛𝑑+𝑝𝑜𝑤𝑒𝑟𝑓𝑢𝑙+𝐵𝑜𝑡!;𝐼𝑛𝑑𝑒𝑥𝑒𝑠+𝐹𝑖𝑙𝑒𝑠+𝑎𝑏𝑜𝑣𝑒+2𝐺𝐵;𝐴+𝐵𝑜𝑡+𝑤𝑖𝑡ℎ+𝑑𝑜𝑢𝑏𝑙𝑒+𝑏𝑢𝑡𝑡𝑜𝑛!;𝑆𝑡𝑎𝑟𝑡+𝑚𝑒𝑠𝑠𝑎𝑔𝑒+𝑤𝑖𝑡ℎ+𝑝𝑖𝑐!;𝐴𝑛𝑑+𝑚𝑜𝑟𝑒+𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠!)
 </p>
 
 <a href="https://github.com/Joelkb/DQ-The-File-Donor/stargazers"><img src="https://img.shields.io/github/stars/Joelkb/DQ-The-File-Donor?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
@@ -56,7 +56,7 @@
 - [x] 𝐴𝑢𝑡𝑜 𝐷𝑒𝑙𝑒𝑡𝑒
 - [x] 𝐴𝑛𝑑 𝑀𝑜𝑟𝑒...
 
-<b>𝑇𝑜 𝑘𝑛𝑜𝑤 𝑎𝑏𝑜𝑢𝑡 𝑎𝑙𝑙 𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠, 𝐽𝑜𝑖𝑛 𝑜𝑢𝑟 <a href='https://telegram.me/DQ_The_File_Donor_Updates'>𝑢𝑝𝑑𝑎𝑡𝑒𝑠 𝑐ℎ𝑎𝑛𝑛𝑒𝑙</a>.</b>
+<b>𝑇𝑜 𝑘𝑛𝑜𝑤 𝑎𝑏𝑜𝑢𝑡 𝑎𝑙𝑙 𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠, 𝐽𝑜𝑖𝑛 𝑜𝑢𝑟 <a href='https://telegram.me/SRXNETWOK'>𝑢𝑝𝑑𝑎𝑡𝑒𝑠 𝑐ℎ𝑎𝑛𝑛𝑒𝑙</a>.</b>
 
 ## 𝐶𝑜𝑚𝑚𝑎𝑛𝑑𝑠
 ```
@@ -120,7 +120,7 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Joelkb/DQ-the-file-donor">
+<a href="https://heroku.com/deploy?template=https://github.com/anonymousmovies2023/permiumbot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 </a>
 </p>
@@ -161,13 +161,13 @@ Go to https://uptimerobot.com/ and add a monitor to keep your bot alive.
 Use these settings when adding a monitor:</b>
 <br>
 <br>
-<img src="https://telegra.ph/file/a79a156e44f43c9833b50.jpg" alt="render template">
+<img src="https://te.legra.ph/file/8b33a03cfade38ca9cd4d.jpg" alt="render template">
 <br>
 <br>
 <b>Click on the below button to deploy directly to render ↓</b>
 <br>
 <br>
-<a href="https://render.com/deploy?repo=https://github.com/Joelkb/DQ-the-file-donor/tree/web">
+<a href="https://render.com/deploy?repo=https://github.com/anonymousmovies2023/permiumbot/tree/web">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
 </details>
@@ -175,7 +175,7 @@ Use these settings when adding a monitor:</b>
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/Joelkb/DQ-The-File-Donor
+git clone https://github.com/anonymousmovies2023/permiumbot
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
