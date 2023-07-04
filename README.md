@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://te.legra.ph/file/dc42f4131343f424268c5.jpg" alt="SRX NETWORK Logo">
+  <img src="" alt="SRX NETWORK Logo">
 </p>
 <h1 align="center">
   𝐒𝐑𝐗 𝐍𝐄𝐓𝐖𝐎𝐑𝐊 𝐁𝐎𝐓
