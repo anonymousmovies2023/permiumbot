@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" alt="SRX NETWORK Logo">
+  <img src="https://github.com/Joelkb/DQ-the-file-donor/assets/130214949/f46070cc-0c51-4088-b09d-d408e32a4872" alt="SRX NETWORK Logo">
 </p>
 <h1 align="center">
   𝐒𝐑𝐗 𝐍𝐄𝐓𝐖𝐎𝐑𝐊 𝐁𝐎𝐓
