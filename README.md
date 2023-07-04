@@ -188,7 +188,7 @@ python3 bot.py
 
 ## Credits 
 * [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/EvaMariaDevs)
-* [![SRX NETWORK](https://img.shields.io/static/v1?label=Jᴏᴇʟ+ᠰ+TɢX&message=Github&color=critical)](https://github.com/anonymousmovies2023)
+* [![SRX NETWORK](https://img.shields.io/static/v1?label=SRX-NETWORK&message=Github&color=critical)](https://github.com/anonymousmovies2023)
 * [![Contact](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/SRXNETWORK)
 
 ## Thanks to 
